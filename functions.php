@@ -20,5 +20,8 @@ function displayMsg() {
 
 displayMsg();
 
+$games [0] = "PUBG";
+$games [1] = "Battlefield 4";
+$games [2] = "Forza Motorsport 6";
 
-
+echo "I play " . $games[0] . ", " . $games[1] . ", " . $games[2] . ". ";
