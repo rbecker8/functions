@@ -13,7 +13,7 @@ echo "578 / 128 = " . divide(578, 128) . " Gallons.<br><br>";
 
 
 function displayMsg() {
-	echo "Welcome to my functions page<br>";
+	echo "Welcome to my PHP functions page<br>";
 	echo "My name is Ryan<br>";
 	echo "and I'm a web developer in training!<br><br>";
 }
